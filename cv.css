@@ -1,0 +1,77 @@
+body {
+    margin: 100px;
+}
+#table1 th,#table1 td  {
+    border: none;
+    width: 100%;
+}
+#name{
+    font-size: 30px;
+    padding: 0px;
+    margin: 0px;
+    font-weight: bold;
+}
+#address {
+    font-size: 18px;
+    padding: 0px;
+    margin: 0px;
+}
+#email {
+    font-size: 18px;
+    padding: 0px;
+    margin: 0px;
+}
+#phone{
+    
+    font-size: 18px;
+    padding: 0px;
+    margin: 0px;
+}
+#img{
+    text-align: right;
+    height: 300px;
+    width: 300px;
+    margin-top: -150px;
+}
+#description{
+    font-size: 18px;
+    text-align: justify;
+    padding: 0px;
+    margin: 0px;
+}
+#abc{
+    font-size: 25px;
+    font-weight: bold;
+    padding: 0px;
+    margin: 0px;
+}
+
+#table, th, td {
+   border: 1px solid black;
+  border-collapse: collapse;      
+}
+#exam, #university, #year, #institution, #marks  {
+    padding: 0px;
+    margin: 0px;
+}
+#computer_skills{
+    text-align: left;
+    font-size: 18px;
+    margin-left: 30px;
+}
+#exam{
+    width: 250px;
+}
+#university{
+    width: 280px;
+}
+#year{
+    width: 80px;
+}
+#institution{
+    width: 270px;
+}
+#marks{
+    width: 100px;
+}
+
